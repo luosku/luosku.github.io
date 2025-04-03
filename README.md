@@ -24,11 +24,7 @@
 </head>
 <body>
     <h1>Tervetuloa</h1>
-    <p>Hello world</p>
-    <p>Hello world</p>
-    <p>Hello world</p>
-    <p>Hello world</p>
-    <p>Hello world</p>
+    <p>Alla olevasta linkistä saa ladattua viestintäsuositus pdf-tiedoston olkaa hyvä</p>
 
 <a href="taloyhtion_viestintasuositus.pdf">Lataa Taloyhtiön viestintäsuositus</a>
 </body>
