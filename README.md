@@ -30,5 +30,8 @@
     <p>Hello world</p>
     <p>Hello world</p>
     <p>Hello world</p>
+
+<a href="taloyhtion_viestintasuositus.pdf">Lataa Taloyhtiön viestintäsuositus</a>
 </body>
 </html>
+
